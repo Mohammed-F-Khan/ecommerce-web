@@ -2,7 +2,7 @@ function loadCategories(categories)
 {
     const select = document.getElementById("category-select");
 
- 
+
     select.innerHTML = "";
 
     // Add default option
